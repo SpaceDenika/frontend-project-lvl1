@@ -16,7 +16,7 @@ export const startGame = (gameData, description) => {
     if (playerAnswer === answer.toString()) {
       console.log('Correct!');
     } else {
-      console.log(`"${playerAnswer}" is wrong answer ;(. Correct answer was "${answer}".\nLet's try again, ${player}!`);
+      console.log(`'${playerAnswer}' is wrong answer ;(. Correct answer was '${answer}'.\nLet's try again, ${player}!`);
       return;
     }
   }

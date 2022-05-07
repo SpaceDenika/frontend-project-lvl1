@@ -17,3 +17,7 @@ Brain-even game usage example
 Brain-gcd game usage example
 
 [![asciicast](https://asciinema.org/a/40AkL6wwN91LTS5jqTeZwnhht.svg)](https://asciinema.org/a/40AkL6wwN91LTS5jqTeZwnhht)
+
+Brain-progression game usage example
+
+[![asciicast](https://asciinema.org/a/C4PYjsYL4mjsAXcLQNmcRDSPH.svg)](https://asciinema.org/a/C4PYjsYL4mjsAXcLQNmcRDSPH)
