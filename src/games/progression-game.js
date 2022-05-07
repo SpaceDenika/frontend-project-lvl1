@@ -32,7 +32,8 @@ const generateRound = () => {
   const length = getRandomNumber(5, 10);
   const progression = getProgression(length);
   const progressionWithHiddenNumber = getHiddenProgressionWithHiddenNumber(progression);
-  const [question, answer] = progressionWithHiddenNumber;
+  const [arr, answer] = progressionWithHiddenNumber;
+  const question = arr.join(' ');
   return [question, answer];
 };
 
