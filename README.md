@@ -21,3 +21,7 @@ Brain-gcd game usage example
 Brain-progression game usage example
 
 [![asciicast](https://asciinema.org/a/C4PYjsYL4mjsAXcLQNmcRDSPH.svg)](https://asciinema.org/a/C4PYjsYL4mjsAXcLQNmcRDSPH)
+
+Brain-prime game usage example
+
+[![asciicast](https://asciinema.org/a/RsoEfoMCurz0egfUQ1egdvSVg.svg)](https://asciinema.org/a/RsoEfoMCurz0egfUQ1egdvSVg)
