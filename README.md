@@ -6,5 +6,11 @@
 
 ![example workflow](https://github.com/SpaceDenika/frontend-project-lvl1/actions/workflows/makefile.yml/badge.svg)
 
-Usage example
-[![asciicast](https://asciinema.org/a/492663.svg)](https://asciinema.org/a/492663)
+Brain-calc game usage example
+
+[![asciicast](https://asciinema.org/a/6li39y18yLlDPyUvY4v6m2eDS.svg)](https://asciinema.org/a/6li39y18yLlDPyUvY4v6m2eDS)
+
+Brain-even game usage example
+
+[![asciicast](https://asciinema.org/a/EAkGOn09F9vIgehfDNOP1GZHo.svg)](https://asciinema.org/a/EAkGOn09F9vIgehfDNOP1GZHo)
+
